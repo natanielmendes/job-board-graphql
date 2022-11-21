@@ -10,7 +10,6 @@ function JobDetail() {
     getJob(jobId).then(setJob)
   }, [jobId])
 
-  console.log('[JobDetail] job:', job)
   if (!job) {
     return <p>Loading...</p>
   }
