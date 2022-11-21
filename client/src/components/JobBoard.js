@@ -9,8 +9,7 @@ function JobBoard() {
   useEffect(() => {
     getJobs().then(setJobs)
   }, [])
-
-  console.log(jobs)
+  
   return (
     <div>
       <h1 className="title">Job Board</h1>
