@@ -7,7 +7,6 @@ getJobs()
 function JobBoard() {
   const [jobs, setJobs] = useState([])
   useEffect(() => {
-    console.log('mounted')
     getJobs().then(setJobs)
   }, [])
 
