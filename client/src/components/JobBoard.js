@@ -13,7 +13,7 @@ function JobBoard() {
   }, [])
 
   if (error) {
-    return <p>Sorry, something went wrong...</p>
+    return <p>Sorry, something went wrong while loading the data...</p>
   }
   return (
     <div>
