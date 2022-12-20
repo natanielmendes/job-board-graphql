@@ -9,3 +9,5 @@ Install the dependencies
 Run the project
 
 `npm start`
+
+There's a local file with the database entity entries such as jobs available and users
