@@ -10,4 +10,4 @@ Run the project
 
 `npm start`
 
-There's a local file with the database entity entries such as jobs available and users
+There's a local file with the database entity entries such as jobs available and users. Graphql queries will pull data from these files.
