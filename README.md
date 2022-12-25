@@ -10,4 +10,6 @@ Run the project
 
 `npm start`
 
-There are local files with database entity entries such as jobs available and users. Graphql queries will pull data (jobs, users and companies) from these files.
+There are local files with database entity entries such as jobs available and users. 
+- Graphql queries will pull data (jobs, users and companies) from these files.
+- Graphql mutations will add more data (jobs, users and companies) into these files.
