@@ -6,7 +6,7 @@ Install the dependencies
 
 `npm install`
 
-Run the project
+Run the project on your local environment
 
 `npm start`
 
