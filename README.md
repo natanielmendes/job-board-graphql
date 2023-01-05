@@ -1,6 +1,6 @@
 # Job Board app using Graphql
 
-Playground app used in the [GraphQL by Example](https://www.udemy.com/course/graphql-by-example/?referralCode=7ACEB04674F000BAC061) course.
+This app was improved while attending [GraphQL by Example](https://www.udemy.com/course/graphql-by-example/?referralCode=7ACEB04674F000BAC061) course.
 
 Install the dependencies
 
