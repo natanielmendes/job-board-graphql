@@ -12,4 +12,4 @@ Run the project on your local environment
 
 There are local files with database entity entries such as jobs available and users. 
 - Graphql queries to fetch data (jobs, users and companies) from these files.
-- Graphql mutations for adding, updating and deleting entries (jobs / users / companies) from these files.
+- Graphql mutations when adding, updating and deleting entries (jobs / users / companies) from these files.
